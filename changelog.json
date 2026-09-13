@@ -1,0 +1,71 @@
+{
+  "releases": [
+    {
+      "version": "1.00.8",
+      "date": "2026-09-13",
+      "items": [
+        {
+          "type": "new",
+          "title": "See what's new before you update",
+          "body": "Checking for updates now shows exactly what changed in the new version, so you know what you're installing."
+        },
+        {
+          "type": "new",
+          "title": "Set a time on reminders from Today",
+          "body": "The Set reminder window on Today now has the same Time field as the Reminders page."
+        },
+        {
+          "type": "improved",
+          "title": "Page View reads like a real document",
+          "body": "Notes sit in a centred column at a comfortable reading width, with more space between paragraphs and softer text that's easier on the eyes."
+        },
+        {
+          "type": "improved",
+          "title": "Headings look the same everywhere",
+          "body": "Headings are now the same size while you write and after you save, in every view."
+        },
+        {
+          "type": "improved",
+          "title": "A clearer Backup tab",
+          "body": "See when your last backup ran and when the next one is due, what's included, and step-by-step instructions for restoring on a new PC."
+        },
+        {
+          "type": "fixed",
+          "title": "The details panel no longer shifts your note",
+          "body": "Opening tags and linked thoughts in Page View no longer squeezes the page or hides the Graph, Zen mode, PDF and Save buttons."
+        },
+        {
+          "type": "fixed",
+          "title": "Reminder end dates no longer disappear",
+          "body": "Editing a reminder could quietly clear a stop-repeating date set elsewhere. Both reminder forms now work the same way."
+        }
+      ]
+    },
+    {
+      "version": "1.00.7",
+      "date": "2026-09-12",
+      "items": [
+        {
+          "type": "improved",
+          "title": "Reorganised Settings",
+          "body": "Settings is split into General, Appearance, Security, Backup, Updates and Help, with consistent text and button sizes throughout."
+        },
+        {
+          "type": "improved",
+          "title": "Tools menu matches the sidebar",
+          "body": "Transfer Files and Year-in-Review now look and behave like the rest of the navigation."
+        },
+        {
+          "type": "fixed",
+          "title": "Clicking a note in the knowledge graph opens it",
+          "body": "One click opens the note, or asks for the password if it's locked. Hovering a dot highlights its connections."
+        },
+        {
+          "type": "fixed",
+          "title": "Graph dots stay where you drag them",
+          "body": "A dot you move now stays put instead of drifting off to the edge of the screen."
+        }
+      ]
+    }
+  ]
+}
