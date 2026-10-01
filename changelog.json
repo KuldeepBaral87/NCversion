@@ -1,6 +1,27 @@
 {
   "releases": [
     {
+      "version": "1.00.18",
+      "date": "2026-09-28",
+      "items": [
+        {
+          "type": "new",
+          "title": "See what's new before you update",
+          "body": "Checking for updates now shows exactly what changed in the new version, so you know what you're installing."
+        },
+        {
+          "type": "new",
+          "title": "Introducing Sam",
+          "body": "A companion that stay on your screen, holds your notes in his bag, add focus timer, set drink water alerts, and lots of customization to make it your own"
+        },
+        {
+          "type": "improved",
+          "title": "Page View reads like a real document",
+          "body": "Notes sit in a centred column at a comfortable reading width, with more space between paragraphs and softer text that's easier on the eyes."
+        }
+      ]
+    }
+    {
       "version": "1.00.8",
       "date": "2026-09-13",
       "items": [
