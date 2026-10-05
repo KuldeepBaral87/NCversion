@@ -1,6 +1,32 @@
 {
   "releases": [
     {
+      "version": "1.00.19",
+      "date": "2026-10-05",
+      "items": [
+        {
+          "type": "new",
+          "title": "Rewards & Challenges, redesigned",
+          "body": "Your numbers, a 30-day activity graph and insights in one swipeable card. Give a challenge a cover picture and the reason you started it, edit it any time, and tick your days off one after another."
+        },
+        {
+          "type": "improved",
+          "title": "Sync covers more",
+          "body": "Timeline and Vision Boards now sync with the NorthClover phone app, challenges bring their picture and reason along, and a reminder or challenge you delete stays deleted on both devices."
+        },
+        {
+          "type": "improved",
+          "title": "A warmer yellow",
+          "body": "Reminders and highlights now use NorthClover's own yellow instead of the old orange."
+        },
+        {
+          "type": "improved",
+          "title": "Smoother motion",
+          "body": "Toasts, checkboxes, switches and the PIN screen move more naturally, and claiming a reward ends with a burst of confetti."
+        }
+      ]
+    },
+    {
       "version": "1.00.18",
       "date": "2026-09-28",
       "items": [
@@ -20,7 +46,7 @@
           "body": "Notes sit in a centred column at a comfortable reading width, with more space between paragraphs and softer text that's easier on the eyes."
         }
       ]
-    }
+    },
     {
       "version": "1.00.8",
       "date": "2026-09-13",
